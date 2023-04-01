@@ -20,3 +20,6 @@ A few technologies we used to get this project going:
 To implement (WIP):
 - Tensorflow
 - Google Cloud
+
+## Usage
+To run this application, navigate to the project directory and run "flutter run --release" in your command line. Please ensure you have a valid iOS/Android simulator as well.
