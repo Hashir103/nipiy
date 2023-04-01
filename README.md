@@ -1,16 +1,18 @@
 # nipiy
 
-A new Flutter project.
+A Google Solutions Flutter Project
 
-## Getting Started
+## Landing Page
+![Screenshot 2023-03-31 at 9 55 48 PM](https://user-images.githubusercontent.com/42753355/229260342-41df9790-8656-4bcb-a2ab-33062c83734e.png)
 
-This project is a starting point for a Flutter application.
+This project is an all in one water information service designed to educate & assist in ending the First Nations water crisis.
 
-A few resources to get you started if this is your first Flutter project:
+A few technologies we used to get this project going:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter / Dart
+- Google Maps API
+- TypeScript
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To implement (WIP):
+- Tensorflow
+- Google Cloud
